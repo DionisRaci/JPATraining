@@ -8,7 +8,7 @@
       <ObjectId>13408</ObjectId>
       <Comment>default administrative connection database</Comment>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>540</IntrospectionStateNumber>
+      <IntrospectionStateNumber>554</IntrospectionStateNumber>
       <Current>1</Current>
     </database>
     <role id="3" parent="1" name="pg_execute_server_program">
@@ -66,7 +66,7 @@
       <ObjectId>16384</ObjectId>
       <StateNumber>489</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>541</IntrospectionStateNumber>
+      <IntrospectionStateNumber>555</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <schema id="13" parent="2" name="information_schema">
@@ -157,7 +157,7 @@
     <table id="25" parent="12" name="person">
       <ObjectId>16401</ObjectId>
       <Owner>postgres</Owner>
-      <StateNumber>508</StateNumber>
+      <StateNumber>542</StateNumber>
     </table>
     <column id="26" parent="24" name="ssn">
       <Position>1</Position>
@@ -254,7 +254,7 @@ address_no</ColNames>
       <Position>5</Position>
       <DataType>boolean|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>508</StateNumber>
+      <StateNumber>542</StateNumber>
       <DefaultExpression>false</DefaultExpression>
       <TypeId>16</TypeId>
     </column>
@@ -266,13 +266,13 @@ address_no</ColNames>
     </column>
     <column id="41" parent="25" name="wealth">
       <Position>7</Position>
-      <DataType>money|0s</DataType>
-      <StateNumber>508</StateNumber>
-      <TypeId>790</TypeId>
+      <DataType>numeric(8,2 digit)|0s</DataType>
+      <StateNumber>542</StateNumber>
+      <TypeId>1700</TypeId>
     </column>
     <index id="42" parent="25" name="pk_person">
       <ObjectId>16404</ObjectId>
-      <StateNumber>506</StateNumber>
+      <StateNumber>542</StateNumber>
       <ColNames>ssn</ColNames>
       <Unique>1</Unique>
       <Primary>1</Primary>

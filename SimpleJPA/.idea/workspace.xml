@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a217c2d9-c4a9-4331-89f6-017745388520" name="Default Changelist" comment="" />
+    <list default="true" id="a217c2d9-c4a9-4331-89f6-017745388520" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/AddressId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/AwesomePeopleCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3f2efb1f-8e61-4ac4-b818-a4a489f838ba.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3f2efb1f-8e61-4ac4-b818-a4a489f838ba.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3f2efb1f-8e61-4ac4-b818-a4a489f838ba/storage_v2/_src_/database/postgres.edMnLQ/schema/first_steps.2ETZ1g.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3f2efb1f-8e61-4ac4-b818-a4a489f838ba/storage_v2/_src_/database/postgres.edMnLQ/schema/first_steps.2ETZ1g.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleJPA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleJPA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Person.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +56,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TdxAHFPvomN6cpW6ImBw9hNeae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -131,12 +147,7 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@15ffbe41" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@15ffbe41" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@583b5aed" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@fec28f19" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -156,10 +167,33 @@
       <updated>1573803629624</updated>
       <workItem from="1573803637282" duration="5745000" />
       <workItem from="1573828383834" duration="600000" />
+      <workItem from="1573904061464" duration="5190000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/demo/Demo.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

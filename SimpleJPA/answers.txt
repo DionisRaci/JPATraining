@@ -1,0 +1,3 @@
+1. JPA inserted NULL because in java we used "BigDecimal" which is an object which are instantiated as NULL
+
+2. because "double" isn't an object that the JPA can work with while "Double" is (upper case first letter).
